@@ -9,7 +9,7 @@ git clone https://github.com/amitrawani07/Zera_Project.git
 ```
 Navigate to the Project Directory
 ```
-cd your-repo-name
+cd Zera_Project
 ```
 ### 2. Install Dependencies
 ```bash
