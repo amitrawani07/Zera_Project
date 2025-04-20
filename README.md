@@ -10,4 +10,4 @@ cd your-repo-name
 
 npm install
 
-npm install
+nodemon app.js
