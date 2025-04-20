@@ -5,7 +5,10 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/amitrawani07/Zera_Project.git
+```
+Navigate to the Project Directory
+```
 cd your-repo-name
 ```
 ### 2. Install Dependencies
